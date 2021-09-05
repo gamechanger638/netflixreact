@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//gamechanger638.github.io/my-app/static/css/main.d83ff1dc.chunk.css",
+    "main.js": "/https//gamechanger638.github.io/my-app/static/js/main.f2c14971.chunk.js",
+    "main.js.map": "/https//gamechanger638.github.io/my-app/static/js/main.f2c14971.chunk.js.map",
+    "runtime-main.js": "/https//gamechanger638.github.io/my-app/static/js/runtime-main.c0318838.js",
+    "runtime-main.js.map": "/https//gamechanger638.github.io/my-app/static/js/runtime-main.c0318838.js.map",
+    "static/js/2.ca01d7df.chunk.js": "/https//gamechanger638.github.io/my-app/static/js/2.ca01d7df.chunk.js",
+    "static/js/2.ca01d7df.chunk.js.map": "/https//gamechanger638.github.io/my-app/static/js/2.ca01d7df.chunk.js.map",
+    "index.html": "/https//gamechanger638.github.io/my-app/index.html",
+    "static/css/main.d83ff1dc.chunk.css.map": "/https//gamechanger638.github.io/my-app/static/css/main.d83ff1dc.chunk.css.map",
+    "static/js/2.ca01d7df.chunk.js.LICENSE.txt": "/https//gamechanger638.github.io/my-app/static/js/2.ca01d7df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0318838.js",
+    "static/js/2.ca01d7df.chunk.js",
+    "static/css/main.d83ff1dc.chunk.css",
+    "static/js/main.f2c14971.chunk.js"
+  ]
+}
